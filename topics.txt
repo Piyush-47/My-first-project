@@ -1,0 +1,20 @@
+Central Code base internet pe h.. 
+
+
+apna feature bana ke codebase pe bhej diya..
+
+single source of truth.. is or codebase rn.. 
+
+jbb aap chhahtey ho ek common cenral codebase pe apna code daaley is.. GIT HUB. 
+
+git h.. aapkey khud ke system prr project manage krna. 
+v1.0  v.20   v2.3  v3.0  
+
+
+agr yahi project management aapko internet prr kahi cenral codebase mein krna h toh uska naam h github. 
+
+
+we will learn github in two aspects 
+1. self work management
+
+2. collab
